@@ -8,7 +8,7 @@ This tool is designed for **educational red team exercises** and **security awar
 
 This application creates a pixel-perfect clone of the Windows User Account Control (UAC) prompt that can be customized and deployed in security assessments. When users enter credentials and click "Yes," the information is sent to a Discord webhook for collection and analysis.
 
-![UAC Prompt Clone](assets/Windows-UAC-Prompt.png)
+![UAC Prompt Clone](/Windows-UAC-Prompt.png)
 
 ## 🔍 Features
 
