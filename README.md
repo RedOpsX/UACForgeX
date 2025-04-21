@@ -10,7 +10,6 @@ This application creates a pixel-perfect clone of the Windows User Account Contr
 
 ![UAC Prompt Clone](/Windows-UAC-Prompt.png)
 
-![UAC Prompt Clone](/uac.png)
 
 ## 🔍 Features
 
@@ -159,9 +158,6 @@ For the best results with custom icons:
 - Deploy behavioral analysis tools that can detect spoofed system dialogs
 - Configure Windows to use personalized UAC prompts where possible
 
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🤝 Disclaimer
 
