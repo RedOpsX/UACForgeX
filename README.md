@@ -158,6 +158,10 @@ For the best results with custom icons:
 - Deploy behavioral analysis tools that can detect spoofed system dialogs
 - Configure Windows to use personalized UAC prompts where possible
 
+## 📢 Connect with Me
+
+- 🔗 Telegram Channel: [t.me/RedOpsX](https://t.me/RedOpsX)  
+- 👤 Telegram (DM): [@RedOpsX1337](https://t.me/RedOpsX1337)
 
 ## 🤝 Disclaimer
 
