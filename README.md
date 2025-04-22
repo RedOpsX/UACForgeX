@@ -10,6 +10,7 @@ This application creates a pixel-perfect clone of the Windows User Account Contr
 
 ![UAC Prompt Clone](/Windows-UAC-Prompt.png)
 
+![UAC Prompt Clone](/uac.png)
 
 ## 🔍 Features
 
