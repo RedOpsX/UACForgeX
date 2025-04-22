@@ -31,7 +31,7 @@ This application creates a pixel-perfect clone of the Windows User Account Contr
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/uac-prompt-clone.git
+   git clone https://github.com/RedOpsX/UACForgeX.git
    cd uac-prompt-clone
    ```
 
